@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;   
+.right{
+    box-shadow:0 0 20px rgb(22, 22, 22);
+}
+@tailwind utilities; 
